@@ -10,17 +10,17 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false; //auto tying in gc (true to on, false to off)
-global.autoRecord = false; //auto recording (true to on, false to off)
+global.autoTyping = true; //auto tying in gc (true to on, false to off)
+global.autoRecord = true; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["94703892615","94767880946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ["94703892615"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ["94703892615"];
-global.OwnerName = "DARK DEVIL";
-global.BotName = "DDev";
-global.packname = "🌹⃝⃘̉̉̉̉̉̉𝙳𝙳𝙴𝚅 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂";  //Do not change.
+global.Owner = ["243972681874"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ["243972681974"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ["243972681974"];
+global.OwnerName = "DARK KËNÄN";
+global.BotName = "D.kenan";
+global.packname = "🌹⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉⃝⃘̉̉̉̉̉̉kenan";  //Do not change.
 global.author = "𝙱𝚈 𝙳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻۝⃟̥̩̩̩̥̩";   //Do not change.
 global.BotSourceCode = "https://github.com/DARK-DEVIL-BOTZ/DDev-BOT";  //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl"; 
@@ -30,13 +30,13 @@ global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
 
 // Set Here Prefix  //
-global.prefa = ["."];
+global.prefa = ["96"];
 global.openAiAPI = "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";
 
 
 //
-global.location = "Kaluthara City, Sri Lanka";
-global.reactmoji = "❤️";
+global.location = "Riyadh City, Arabie Saoudite";
+global.reactmoji = "😃";
 global.themeemoji = "🤖";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
 global.websitex = "https://github.com/malindunimsara";
